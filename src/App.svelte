@@ -272,9 +272,9 @@
 						<!-- <a href='tel:01073003086'><img class='phone' src='img/phone.jpg'/></a> -->
 						<div id="cross_border4"></div>
 						<div class="rows"><h1>신부측 혼주</h1></div>
-						<div class="rows"><p class="name">김용수</p></div>
+						<div class="rows"><p class="name">김용수, 이윤희 (김유림)</p></div>
 						<div class="rows"><button on:click={ () => copy('account5', '계좌번호가 복사 되었습니다.') }><p class="bank">SC제일 38520100690</p></button></div>
-						<div class="rows"><p class="name">(김유림)</p></div>
+						<div class="rows"><p class="name"> </p></div>
 						<div class="rows"><button><p class="bank">&nbsp;</p></button></div>
 					</div>
 				</div>
